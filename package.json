@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/charleslu0529/discord-music-bot#readme",
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.9.1"
   }
 }
